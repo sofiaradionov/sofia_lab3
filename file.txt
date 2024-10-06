@@ -1,0 +1,3 @@
+Adăugăm ceva nou în file
+Nu mai adăugăm nimic.
+Adăugăm o altă linie.

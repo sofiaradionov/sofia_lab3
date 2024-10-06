@@ -1,0 +1,3 @@
+Conținutul 1-lui fișier.
+Adăugăm ceva nou în file1
+Nu mai adăugăm nimic.
